@@ -1,0 +1,7 @@
+project,dataset,domain,split,epoch,selected_by_valid_epoch,valid_MRR,MRR,NDCG@5,NDCG@10,HR@1,HR@5,HR@10,source
+HGN,Entertainment-Education,x,test,100,100,0.3162,0.3289,0.3535,0.3912,0.2216,0.4747,0.5915,D:\Eruxim\GradProj\contrast_exp_log_docs\HGN\Entertainment-Education x.docx
+HGN,Entertainment-Education,y,test,90,90,0.3872,0.3877,0.4085,0.4417,0.293,0.513,0.6152,D:\Eruxim\GradProj\contrast_exp_log_docs\HGN\Entertainment-Education y.docx
+HGN,Food-Kitchen,x,test,80,80,0.1191,0.1143,0.1235,0.1417,0.069,0.1739,0.2306,D:\Eruxim\GradProj\contrast_exp_log_docs\HGN\Food-Kitchen x.docx
+HGN,Food-Kitchen,y,test,90,90,0.0651,0.0608,0.0661,0.0791,0.0326,0.0988,0.1389,D:\Eruxim\GradProj\contrast_exp_log_docs\HGN\Food-Kitchen y.docx
+HGN,Movie-Book,x,test,70,70,0.0748,0.056,0.062,0.078,0.0228,0.1,0.15,D:\Eruxim\GradProj\contrast_exp_log_docs\HGN\Movie-Book x.docx
+HGN,Movie-Book,y,test,60,60,0.0349,0.0376,0.0389,0.0465,0.0253,0.052,0.076,D:\Eruxim\GradProj\contrast_exp_log_docs\HGN\Movie-Book y.docx
